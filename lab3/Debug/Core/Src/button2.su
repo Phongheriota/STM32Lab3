@@ -1,0 +1,4 @@
+button2.c:13:5:isButton2Pressed	4	static
+button2.c:21:5:isButton2LongPressed	4	static
+button2.c:29:6:subKeyProcess2	4	static
+button2.c:35:6:getKeyInput2	8	static

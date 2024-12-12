@@ -14,6 +14,8 @@
 #define PRESSED_STATE RESET
 
 extern int button1_flag;
+extern int button2_flag;
+extern int button3_flag;
 
 void getKeyInput();
 

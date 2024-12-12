@@ -1,0 +1,2 @@
+led_update.c:14:6:update7SEG	16	static
+led_update.c:29:6:updateled	16	static
