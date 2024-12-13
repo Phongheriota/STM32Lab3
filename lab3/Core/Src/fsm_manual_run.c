@@ -48,7 +48,7 @@ int index2;
 		 }
 			if(isbutton3Pressed())
 			{
-				gre_time=red_time -yel_time;
+				gre_sec=red_sec -yel_sec;
 			}
 		 break;
 	 case SET_YEL:
@@ -87,7 +87,7 @@ int index2;
 		 }
 		if(isbutton3Pressed())
 			{
-				gre_time=red_time -yel_time;
+				gre_sec=red_sec -yel_sec;
 			}
 		 break;
 	 case SET_GRE:
@@ -126,7 +126,7 @@ int index2;
 		 }
 			if(isbutton3Pressed())
 			{
-				red_time=gre_time+yel_time;
+				red_sec=gre_sec+yel_sec;
 			}
 		 break;
 	 default:
